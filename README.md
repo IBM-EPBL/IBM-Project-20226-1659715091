@@ -17,13 +17,13 @@ The application is intended to provide information about the containment zones i
 <ul>
 <li>HTML
 <li>CSS and BootStrap
-<li>JavaScript<\li>
-<li>Python-Flask<\li>
-<li>Kubernetes<\li>
-<li>Docker<\li>
-<li>IBM Cloud<\li>
-<li>IBM Cloud Object Storage<\li>
-<li>IBM DB2<\li>
-<li>IBM Container Registry<\li>
-<li>Android<\li>
+<li>JavaScript
+<li>Python-Flask
+<li>Kubernetes
+<li>Docker
+<li>IBM Cloud
+<li>IBM Cloud Object Storage
+<li>IBM DB2
+<li>IBM Container Registry
+<li>Android
 </ul>
